@@ -1,12 +1,5 @@
-## Fazt Community Github
+## Fazt Community Repository
 
-<!--
+¡Hey coders! les damos la bienvenida a Fazt Community Github, un espacio donde se reúnen desarrolladores de habla hispana donde puedes aprender y pasarla bien. Los repositorios listados aqui son el trabajo de nuestra comunidad; los proyectos han buscado resolver un problema, recreando lo mas posible un entorno real de trabajo, para posteriormente aprovechar la experiencia y crecer. 
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ Comunidad de programacion y aprendizaje colectivo
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Si deseas involucrarte, comunicate con nuestro staff [aqui](https://discord.gg/fazt-community-466723723853037589).
